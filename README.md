@@ -1,7 +1,7 @@
-# Title of the README.md
+# Project
  
 Date and time: 
-Sun Jun  7 13:22:03 CEST 2020
+Sun Jun  7 19:44:13 CEST 2020
 
 The number of lines of code contained in guessinggame.sh is: 
 22

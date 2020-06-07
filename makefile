@@ -1,6 +1,6 @@
 README.md
 	touch README.md
-	echo -e "# Title of the README.md\n " >> README.md
+	echo -e "# Project\n " >> README.md
 	echo "Date and time: " >> README.md
 	date >> README.md
 	echo "" >> README.md
